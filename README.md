@@ -14,7 +14,7 @@ De temps en temps, nous devons réinitialiser un robot avec ses paramètres d'us
 
 Les noms doivent être aléatoires: ils ne doivent pas suivre une séquence prévisible. Des noms aléatoires signifient un risque de collision. Votre solution doit garantir que chaque robot existant porte un nom unique. 
 
-Afin de faciliter les tests, votre solution devra implémenter une méthode Robot.forget qui efface tout état partagé pouvant exister pour suivre les noms de robots déjà créés pour éviter d'éventuels doublons. *état partagé* doit normalement vous titiller et vous faire penser à des variables de classe... 
+Afin de faciliter les tests, votre solution devra implémenter une méthode Robot.forget qui efface tout état partagé pouvant exister pour suivre les noms de robots déjà créés afin d'éviter d'éventuels doublons. *état partagé* doit normalement vous titiller et vous faire penser à des variables de classe... 
 
 Pour les plus expérimentés, vous pouvez créer un objet de type Emunerator si vous ne l'aviez pas déjà fait, mais on peut bien-sûr très bien s'en passer. 
 
