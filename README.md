@@ -16,7 +16,7 @@ Les noms doivent être aléatoires: ils ne doivent pas suivre une séquence pré
 
 Afin de faciliter les tests, votre solution devra implémenter une méthode Robot.forget qui efface tout état partagé pouvant exister pour suivre les noms de robots en double. *état partagé* doit normalement vous titiller et vous faire penser à des variables de classe... 
 
-Pour les plus expérimentés, vous pouvez créer un objet de type Emunerator si vous ne l'aviez pas déjà fait, mais on peut bien-sûr très bien s'en passé. 
+Pour les plus expérimentés, vous pouvez créer un objet de type Emunerator si vous ne l'aviez pas déjà fait, mais on peut bien-sûr très bien s'en passer. 
 
 Points bonus si cette méthode n'a rien à faire pour votre solution. 
 
